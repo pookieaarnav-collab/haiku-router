@@ -1,5 +1,0 @@
-{
-  "name": "haiku-router",
-  "owner": { "name": "pookieaarnav-collab" },
-  "plugins": [{ "name": "haiku-router", "source": "./" }]
-}
