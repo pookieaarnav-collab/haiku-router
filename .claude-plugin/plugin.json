@@ -1,0 +1,6 @@
+{
+  "name": "haiku-router",
+  "version": "0.1.0",
+  "description": "Sends short, simple prompts to Haiku and keeps everything else on your chosen model.",
+  "author": { "name": "pookieaarnav-collab" }
+}
